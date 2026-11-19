@@ -1,0 +1,6 @@
+{
+  "name": "PortShield",
+  "description": "Enterprise UFLPA and Customs Seizure Rescue Portal for forensic supply-chain screening, mass-balance chain-of-custody verification, 72-hour admissibility dossiers, and Google Slides executive briefings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
